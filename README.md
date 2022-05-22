@@ -26,8 +26,8 @@
  <div>
     <a href = "https://www.linkedin.com/in/jonathan-torres-reis/"><img src="https://img.shields.io/badge/-Linkedin-1371cf?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="https://instagram.com/jreiscrf" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="wa.me/+5511959862964" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-%3bbf0f?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-    <a href = "jonathan.reis.torres@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+    <a href="https://wa.me/+5511959862664" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-%3bbf0f?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+    <a href = "https://mailto:jonathan.reis.torres@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
     <a href = "https://discord.gg/by2at9t9"><img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
     
    
