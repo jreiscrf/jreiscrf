@@ -31,7 +31,7 @@
     <a href = "https://discord.gg/by2at9t9"><img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
     
    
-   ![Snake animation](https://github.com/jreiscrf/jreiscrf/blob/outputgithub-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/jreiscrf/jreiscrf/blob/output/github-contribution-grid-snake.svg)
 
    </div>
  
