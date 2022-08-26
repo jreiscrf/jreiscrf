@@ -4,7 +4,7 @@
 ###
 
 - 👨🏼‍🎓 Cursando 4° semestre de Análise e Desenvolvimento de Sistemas no Centro Universitário SENAC.
-- 👨🏼‍💼 Atualmente trabalho com desenvolvimento Front-End na Cheap Food.
+- 👨🏼‍💼 Atualmente trabalho como Analista de Desenvolvimento Junior na PontoTel.
 - 🥷🏼 Estudando: React, React Native.
 
 
