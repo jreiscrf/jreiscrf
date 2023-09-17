@@ -5,7 +5,7 @@
 
 - 👨🏼‍🎓 Formado em Análise e Desenvolvimento de Sistemas pelo Centro Universitário SENAC.
 - 👨🏼‍💼 Atualmente trabalho como Analista de Desenvolvimento Junior na PontoTel.
-- 🥷🏼 Estudando: React, React Native.
+- 🥷🏼 Estudando: Swift, React Native
 
 
 ### <div align="center">
