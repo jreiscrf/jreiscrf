@@ -17,8 +17,8 @@ Atualmente focado em desenvolvimento de apps mobile nativos e híbridos
 
 ### <div align="center">
   <a href="https://github.com/jreiscrf">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jreiscrf&layout=compact&langs_count=10&bg_color=90,000000,7fff00&theme=chartreuse-dark"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jreiscrf&show_icons=true&include_all_commits=true&count_private=true&layout=compact&bg_color=90,000000,7fff00&theme=chartreuse-dark&custom_title=Stats%20of%20Jonathan%20Reis"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jreiscrf&layout=compact&langs_count=10&bg_color=90,000000,7fff00&theme=chartreuse-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jreiscrf&show_icons=true&include_all_commits=true&count_private=true&layout=compact&bg_color=90,000000,7fff00&theme=chartreuse-dark&custom_title=Stats%20of%20Jonathan%20Reis"/>
 </div>
 <div style="display: inline_block"><br>
 
