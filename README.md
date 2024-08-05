@@ -11,7 +11,7 @@ Atualmente focado em desenvolvimento de apps mobile nativos e híbridos
 ###
 
 - 👨🏼‍🎓 Formado em Análise e Desenvolvimento de Sistemas pelo Centro Universitário SENAC.
-- 👨🏼‍💼 Atualmente trabalho como Analista de Desenvolvimento Junior II na PontoTel.
+- 👨🏼‍💼 Atualmente trabalho como Analista de Desenvolvimento Junior IV na PontoTel.
 - 🥷🏼 Estudando: Swift, React Native
 
 
